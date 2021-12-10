@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-    <title>Novosti vezane za rad servisa -PCFIX-</title>
+    <title>Novosti vezane za rad servisa -PCFIX-!</title>
+    <link>https://radenovici.github.io/-PCFIX-/index.html</link>
+    <description>Otkrijte šta je novo u svetu računara i telefona!</description>
+
+    <item>
+        <title>Odmor uoči novogodišnjih i božićnih praznika!</title>
+        <link>https://radenovici.github.io/-PCFIX-/index.html</link>
+        <description>Servis i njegovo osoblje neće raditi od 20. Decembra do 15. Januara kako bismo proslavili Novu godinu i Božić. Srećna Nova 2022. i Hristos se rodi!</description>
+    </item>
+
+    <item>
+        <title>Godišnjica osnivanja firme!</title>
+        <link>https://radenovici.github.io/-PCFIX-/index.html</link>
+        <description>Sa ponosom i radovanjem obaveštavamo naše sugrađane da je u ponedeljak 13. Decembra godišnjica osnivanja naše firme. Ovim povodom pozivamo sve građane da proslave sa nama, moleći da se poštuju epidemiološke mere. Hvala!</description>
+    </item>
 </channel>
+</rss>

@@ -148,7 +148,7 @@ footer .wrapper{
 }
 footer .wrapper #social{
     width: 200px;
-    margin-left: auto;
+    margin-left: 800px;
     padding-left: 120px;
 }
 footer .wrapper #social ul :hover{

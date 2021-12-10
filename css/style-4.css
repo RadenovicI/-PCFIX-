@@ -92,7 +92,7 @@ footer{
     padding: 20px 10px;
     margin-top: 10px;
 }
-footer .center-block{
+footer .wrapper{
     width: 70%;
     margin: 50px auto;
     font-weight: bold;
@@ -100,18 +100,18 @@ footer .center-block{
     display: flex;
     padding-top: 5px;
 }
-footer .center-block #social{
+footer .wrapper #social{
     width: 200px;
-    margin-left: auto;
+    margin-left: 800px;
     padding-left: 120px;
 }
-footer .center-block #social ul :hover{
+footer .wrapper #social ul :hover{
     color: #3377a0;
     transition-duration: 0.1s;
 }
-footer .center-block #social ul{
+footer .wrapper #social ul{
     display: flex;
 }
-footer .center-block #social ul li{
+footer .wrapper #social ul li{
     margin-left: 10px;
 }

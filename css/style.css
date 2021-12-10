@@ -83,12 +83,12 @@ header #signin :hover{
     height: 200px;
     width: 400px;
     text-align: left;
-    padding: 100px 20px
+    margin-top: 300px;
+    float: left;
 }
 #introduction article h2{
     font-size: 45px;
     font-style: italic;
-    margin-top: 200px;
 }
 #introduction article p{
     font-size: 30px;
@@ -153,11 +153,6 @@ header #signin :hover{
 .mapouter{
     margin: 20px auto;
 }
-
-
-
-
-
 footer{
     width: 100%;
     height: 150px;
@@ -175,7 +170,7 @@ footer .wrapper{
 }
 footer .wrapper #social{
     width: 200px;
-    margin-left: auto;
+    margin-left: 800px;
     padding-left: 120px;
 }
 footer .wrapper #social ul :hover{
